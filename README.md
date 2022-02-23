@@ -1,8 +1,10 @@
-# Haxe project
+# learningHaxe
+Charles Hartsell, 2.23.2022
 
-This is an example Haxe project scaffolded by Visual Studio Code.
+These files were made following the tutorial at this link:
+https://youtube.com/playlist?list=PLnweXVCg6yWodTlo3BQXicKJuGrTp_yeV
 
-Without further changes the structure is following:
+File structure:
 
  * `src/Main.hx`: Entry point Haxe source file
  * `build.hxml`: Haxe command line file used to build the project
