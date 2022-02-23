@@ -3,11 +3,14 @@
 -cp src
 -D analyzer-optimize
 -main Main
---interp
+#--interp
 
-#--each
-#--python bin/main.py
-#--next
-#--js bin/main.js
+--each
+
+--python bin/main.py
+
+--next
+
+--js bin/main.js
 
 # ctrl + shift + b to build

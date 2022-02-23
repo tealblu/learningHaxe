@@ -4,7 +4,7 @@ Charles Hartsell, 2.23.2022
 These files were made following the tutorial at this link:
 https://youtube.com/playlist?list=PLnweXVCg6yWodTlo3BQXicKJuGrTp_yeV
 
-Currently in the middle of video 2.
+Currently completed video 3.
 
 File structure:
 

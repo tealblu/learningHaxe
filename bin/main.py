@@ -7,8 +7,9 @@ class Main:
 
     @staticmethod
     def main():
-        print("Hello, world!")
-        print("Goodbye, world!")
+        print("Starting program...")
+        print("Python mode")
+        print(str(69))
 
 
 class haxe_iterators_ArrayIterator:
