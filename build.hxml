@@ -1,0 +1,13 @@
+# Charles Hartsell
+
+-cp src
+-D analyzer-optimize
+-main Main
+--interp
+
+#--each
+#--python bin/main.py
+#--next
+#--js bin/main.js
+
+# ctrl + shift + b to build
